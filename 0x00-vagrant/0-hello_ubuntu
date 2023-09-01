@@ -1,1 +1,1 @@
-uname - prints the name, version and other details about the current machine and the operating system.
+uname - print the name of the operating system kernel that the system is currently running
